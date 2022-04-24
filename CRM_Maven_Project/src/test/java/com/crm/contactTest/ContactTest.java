@@ -10,6 +10,7 @@ public class ContactTest {
 		System.out.println(URL);
 		System.out.println(BROWSER);
 		System.out.println("execute createContactTEst");
+//		System.out.println("test");
 	}
 	@Test
 	public void editContactTEst() {
